@@ -21,3 +21,5 @@ spring:
       
 logging:
   file: log/spring.log
+  
+name: yg
