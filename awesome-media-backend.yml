@@ -22,4 +22,4 @@ spring:
 logging:
   file: log/spring.log
   
-name: yg to jyg
+name: yg to jyg hi
